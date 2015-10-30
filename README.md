@@ -1,6 +1,8 @@
 Markdown Collaboration Tool
 ===
 
+![](http://i.imgur.com/4YiDb56.gif)
+
 ### About
 
 I'd like this to be a tool build by a community for a community.
