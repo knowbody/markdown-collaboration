@@ -56,6 +56,6 @@
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
     "react-remarkable": "^1.1.1",
-    "react-router": "v1.0.0-rc4"
+    "react-router": "v1.0.0"
   }
 }
