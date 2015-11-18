@@ -1,9 +1,11 @@
 Markdown Collaboration Tool
 ===
 
+![](http://i.imgur.com/4YiDb56.gif)
+
 ### About
 
-I'd like this to be a tool build by a community for a community.
+I'd like this to be community build collaboration tool. Something like Google Docs but for markdown.
 
 ### Get started
 
