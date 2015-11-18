@@ -14,11 +14,11 @@ I'd like this to be community build collaboration tool. Something like Google Do
 
 ### Ideas
 
-- [] Sharable (publicly or privately)
-- [] Post to Medium, etc.
+- [ ] Sharable (publicly or privately)
+- [ ] Post to Medium, etc.
 - [x] Word count, read time
-- [] Comments
-- [] Suggested changes (similar to Google Docs)
-- [] Non-distruction mode
+- [ ] Comments
+- [ ] Suggested changes (similar to Google Docs)
+- [ ] Non-distruction mode
 
 Feel free to contribute!
