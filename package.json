@@ -52,10 +52,10 @@
   },
   "dependencies": {
     "highlight.js": "^8.9.1",
-    "history": "^1.13.0",
-    "react": "^0.14.1",
-    "react-dom": "^0.14.1",
+    "history": "^1.13.1",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
     "react-remarkable": "^1.1.1",
-    "react-router": "v1.0.0-rc3"
+    "react-router": "v1.0.0"
   }
 }

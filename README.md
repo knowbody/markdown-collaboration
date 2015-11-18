@@ -12,11 +12,11 @@ I'd like this to be a tool build by a community for a community.
 
 ### Ideas
 
-- Sharable (publicly or privately)
-- Post to Medium, etc.
-- Word count, read time, character count
-- Comments
-- Suggested changes (similar to Google Docs)
-- Non-distruction mode
+- [] Sharable (publicly or privately)
+- [] Post to Medium, etc.
+- [x] Word count, read time
+- [] Comments
+- [] Suggested changes (similar to Google Docs)
+- [] Non-distruction mode
 
 Feel free to contribute!
